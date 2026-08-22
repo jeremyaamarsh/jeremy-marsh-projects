@@ -4,8 +4,8 @@ title: Jeremy Marsh Portfolio
 ---
 ## Jeremy Marsh — Data Engineering & Data Science Portfolio
 
-
 ## About
+
 
 ## Projects
 
@@ -70,7 +70,6 @@ Summary: Cleaned and merged multiple inconsistent CSV files into a unified datas
 Summary: Explored Dodgers 2022 home game attendance to identify factors influencing turnout. Found that promotions and opponent matchups significantly affect attendance. Demonstrates EDA, visualization, and simple insights from real-world sports data.
 
 [View Project](https://github.com/jeremyaamarsh/jeremy-marsh-projects/tree/main/projects/mlb-attendance-analysis)
-Readme [View Project] https://github.com/jeremyaamarsh/jeremy-marsh-projects/blob/main/projects/mlb-attendance-analysis/README.md
 
 
 ## Contact
