@@ -25,7 +25,7 @@ This project looks at attendance for Los Angeles Dodgers home games during the 2
 ## Repository Structure
 mlb-attendance-analysis/<br>
 │<br>
-├── mlb_attendance_analysis.ipynb<br>
+├── mlb-attendance-analysis.ipynb<br>
 └── README.md<br>
 
 ## Data Source
