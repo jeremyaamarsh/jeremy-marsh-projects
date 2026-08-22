@@ -24,7 +24,7 @@ This project builds a simple movie recommender system using the MovieLens *ml-la
 ## Repository Structure
 
 movielens-recommender-system/<br>
-│
+│<br>
 ├── movielens_recommender.ipynb<br>
 └── README.md<br>
 
