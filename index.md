@@ -3,7 +3,11 @@ layout: default
 title: Jeremy Marsh Portfolio
 ---
 ## About
+I’m a data engineer and data science graduate student with a background in building the data pipelines, reporting systems, and analytics that support day-to-day operations in the insurance industry. Most of the work I do involves ETL development, SQL engineering, and applied modeling, but because the data is sensitive, none of it can be shared publicly.
 
+For now, this portfolio focuses on projects from my master’s program. They’re a good representation of how I approach real data problems, including cleaning messy datasets, engineering useful features, building models, and explaining results in a clear, practical way. As I continue growing my skill set, I’ll be adding more projects that reflect my interests in machine learning, forecasting, and data engineering.
+
+My goal is to build solutions that are clear, reliable, and actually useful.
 
 ## Projects
 
