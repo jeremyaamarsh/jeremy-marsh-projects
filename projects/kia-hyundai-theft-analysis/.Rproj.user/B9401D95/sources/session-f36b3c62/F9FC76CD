@@ -1,0 +1,26 @@
+{
+    "id": "F9FC76CD",
+    "path": "~/DSC640_KiaHyundai_Visuals/scripts/07_stackedbar.R",
+    "project_path": "scripts/07_stackedbar.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1777347785278.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "34,30",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1777426910,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1777426910551,
+    "read_only": false,
+    "read_only_alternatives": []
+}

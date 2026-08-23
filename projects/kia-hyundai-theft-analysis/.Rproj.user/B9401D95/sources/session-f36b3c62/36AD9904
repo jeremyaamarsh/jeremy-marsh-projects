@@ -1,0 +1,26 @@
+{
+    "id": "36AD9904",
+    "path": "~/DSC640_KiaHyundai_Visuals/scripts/03_donut.R",
+    "project_path": "scripts/03_donut.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1777291540154.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "32,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1777396498,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1777396498121,
+    "read_only": false,
+    "read_only_alternatives": []
+}
