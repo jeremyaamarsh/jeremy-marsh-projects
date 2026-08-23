@@ -74,10 +74,10 @@ Summary: Explored Dodgers 2022 home game attendance to identify factors influenc
 
 ## Contact
 
-Email: jeremyaamarsh@gmail.com
+Email: [jeremyaamarsh@gmail.com](mailto:jeremyaamarsh@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/jeremyaamarsh/
+LinkedIn: [https://www.linkedin.com/in/jeremyaamarsh/](https://www.linkedin.com/in/jeremyaamarsh/)
 
-GitHub: https://jeremyaamarsh.github.io/jeremy-marsh-projects/
+GitHub: [https://jeremyaamarsh.github.io/jeremy-marsh-projects/](https://jeremyaamarsh.github.io/jeremy-marsh-projects/)
 
 Location: Pocatello, ID
